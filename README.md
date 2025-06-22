@@ -33,6 +33,12 @@ Se você fez tudo certo, ao iniciar o Crew-Chief você ouvirá a voz de test do 
 
 Em caso de encontrar algum audio ruim ou inaldivel (devido geração por IA, coisas esquisitas aparecem) abra um issue no github, com o audio ruim e coloque o caminho desse audio, (no log Crew-chief ele exibe todos os audios reproduzidos).
 
-# Seu Nomes
+# Não achei meu nome na lista?
 
 Eu adicionei uma lista com mais de 2.000 nomes para criação dos audios mas caso o seu nome não aparece, abra um issue que eu adicionarei em todos os packs já criados.
+
+# Passando o chápeu
+
+Todo esse trabalho foi desenvolvido por hobby, mas um café paga alguns serviços web que utilizo para gerar as vozes, criação de modelos e o tempo utilizado.
+
+![pix](/imgs/qrcode-pix.png)
