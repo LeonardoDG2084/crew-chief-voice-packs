@@ -26,7 +26,7 @@ skip_inventory: False
 skip_radio_check: False
 keep_invalid_files: False
 max_invalid_attempts: 30
-radio_check_tts_text: Galo, aqui é o seu engenheiro chefe Vitor Gens, se tu seguir as minhas dicas! tu vai se dar bem!
+radio_check_tts_text: Galo, aqui é o seu engenheiro chefe Vitor Gens, se tu seguir as minhas dicas, tu vai se dar bem!
 simple_validity_check: False
 xtts_speed: 1.2
 xtts_temperature: 0.8
